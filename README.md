@@ -1,4 +1,4 @@
-# Awesome-Docker-Presentation
+## Awesome-Docker-Presentation
 Tool presentation by Violet Bears for Intro to Game Programming. This list goes over the pros and cons of 10 different tools for game developers, as well as provides links to acces them.
 
 # 1. Docker - https://www.docker.com/
@@ -44,3 +44,51 @@ Speedtree is the industry standard vegetation toolkit for game developers, and o
 # 10. Polyhaven - https://polyhaven.com/
 
 Polyhaven is an application providing a modicum of 3d assets including textures, models, and more. This makes Polyhaven a must have for many game developers, especially indie game devs working in smaller teams with less resources to create custom assets. With Polyhaven being an open library, some textures vary in quality, making many assets inconsistent and even sometimes causing issues with its blender add-on.
+
+## Awesome GameGuild Presentation
+
+The first section consists of game development career pathways, with the second section consisting of game programming disciplines.
+
+# - Section 1:
+
+# 1. Game Programming
+
+Game programming is a degree pathway under game development that involves writing code to create the technical side of the video game, turning ideas into tangable mechanics. Game programming is a broad field and can include a variety of specialized pathways including: physics engines, AI for npc, procedural generation, networking, online mechanics, etc.
+
+# 2. SFX Design
+
+Game SFX Design is a degree pathway under game development that can include a lot of work both in and outside of the game studio. SFX artists can create virtual and non virtual sound effects to improve atmosphere and immersion, as well as sound design levels and write background music. Game SFX Artists create and implement sound effects that shape the players experience, assist the players, and gives the players feedback making it often vital to level and mechanic design.
+
+# 3. UX Design
+
+Game UX designers also help shape the player experience via designing enjoyable UI, menus, controls, navigation, and other things making the players ability to navigate the game more intuitive and simple. UX designers are tasked with creating menus, onboarding, overlays, settings, as well as present the necessary info and give feedback on whats happening in a game.
+
+# 4. Game Animation
+
+Game animators create animations for characters movements, items, environment and levels, cutscenes, etc, helping shape the player experience by giving them a more intuitive gameplay experience. This helps make movements and other controls feel more fluid and reactive, help items feel more responsive and controllable, as well as help with world exploration by making environments feel more real as well as help players understand where they can and cannot go. 
+
+# 5. Game Marketing 
+
+Game marketing a career pathway that involves marketing video games to expand their playerbases via creating content, choosing the correct advertisement routes, creating communities, and make the game more accessible creating more awareness, fostering engagement, and driving sales helping games grow as a whole. This can involve making ads, content, product placement, optimization, and other pathways to drive sales and increase community size for video games.
+
+# - Section 2:
+
+# Physics Programming
+
+Physics programming involves coding a physics engine that simulates a realistic movement experience allowing for collisions, object behaviors, gravity, etc. Physics programming requires substantial coding skills, mathematical skills, and a thorough understanding of real world physics. Some jobs in this field include Physics Programmer (Epic Games), Game Physics Engineer (Roblox), and Physics Programmer (Rockstar), as well as a variety of others. 
+
+# AI Programming
+
+Game AI programming involves creating algorithms for intelligent and responsive NPC's this can include enemies, allies, vehicles controlling how they behave, path their environment, decision make, and can also assist with machine learning. AI Programming requires skill in programming, computer science, artificial intelligence, and mathematics. Some jobs in this field include: AI full-stack engineer (edgetrace), AI software engineer (zachary piper solutions), AI Integration Engineer for Game AI (Sony AI), and many others.
+
+# Game Engine Programming
+
+Game engine programming is the development and porgamming of a game making framework that provides physics engines, software, and tools to assist in the process of making games. Game engine programming requires a good understanding of programming languages, and strong foundations in comp sci, math, and web api. Some jobs in this field include Video Game engine programmer (Keywords studios), Unity Game Developer (THNDR), and Game engine research engineer (Meta).
+
+# Graphic Programming 
+
+Graphic programming in video games is a field that involves writing programs for 2d and 3d graphics and animations in video games using different methods of optimization and rendering. Game graphics programming requires skills in programming, math, computer graphics, and rendering. Some jobs in this field include Graphics programmer (rockstar), Graphics programmer (The Forge), Rendering engineer (nvidia), and more.
+
+# UI Programming
+
+Game UI programming involves writing efficient code that determines how the player interacts with and naviagtes menus and controls, making it vital to a games enjoyability and simplicity. Game UI programming requires strong skills in programming, different gme engines, and design and UI principles to ssist the overall player experience. Some jobs in this field include Senior UI Programmer (Epic Games), Senior UI Programmer (Rockstar), UI Designer (Sony), and a variety of others.
